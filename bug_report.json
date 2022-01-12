@@ -1,4 +1,9 @@
-{
-  "ID":"1"
-}
 
+{
+	"ID":"1",
+	"Created Date":"12/01/21",
+	"Summary": "Невозможно открыть файл с именем длиннее 500 символов",
+        "Steps to reproduce":"0",
+        "Severity":"Low"
+        "Priority":"Medium"
+}
