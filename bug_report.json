@@ -9,9 +9,9 @@
 	"Reported By": "Your Name",
 	"Reported On": "Date",
 	"Reason": "Defect",
-	"Status": "New/Open/Active (Depends on the Tool you are using)"
-	"Environment": "Windows 2003/SQL Server 2005"
-	"Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application."
+	"Status": "New/Open/Active (Depends on the Tool you are using)",
+	"Environment": "Windows 2003/SQL Server 2005",
+	"Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application.",
 	"Steps to Reproduce": {"1": "Login into the Application.",
 "2": "Navigate to the Users Menu -> New User",
 "3": "Filled out all the user information fields.",
