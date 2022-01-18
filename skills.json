@@ -1,7 +1,7 @@
 {
-        "skill": "theory testing",
-	"skill": "SQL",
-	"skill": "API. Postman",
-	"skill": "HTTP",
-	"skill": "Python"
+  "skill1": "theory testing",
+	"skill2": "SQL",
+	"skill3": "API. Postman",
+	"skill4": "HTTP",
+	"skill5": "Python"
 }
